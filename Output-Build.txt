@@ -1,0 +1,17 @@
+﻿Build started at 13:34...
+1>------ Build started: Project: OpenGL_Polygon, Configuration: Debug x64 ------
+1>  OpenGL_Polygon.cpp
+1>C:\Users\okeke\source\OpenGL_Polygon\OpenGL_Polygon.cpp(17,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+1>C:\Users\okeke\source\OpenGL_Polygon\OpenGL_Polygon.cpp(18,55): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+1>C:\Users\okeke\source\OpenGL_Polygon\OpenGL_Polygon.cpp(18,27): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+1>C:\Users\okeke\source\OpenGL_Polygon\OpenGL_Polygon.cpp(26,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+1>C:\Users\okeke\source\OpenGL_Polygon\OpenGL_Polygon.cpp(27,56): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+1>C:\Users\okeke\source\OpenGL_Polygon\OpenGL_Polygon.cpp(27,27): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+1>C:\Users\okeke\source\OpenGL_Polygon\OpenGL_Polygon.cpp(34,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+1>C:\Users\okeke\source\OpenGL_Polygon\OpenGL_Polygon.cpp(37,55): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+1>C:\Users\okeke\source\OpenGL_Polygon\OpenGL_Polygon.cpp(37,27): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+1>C:\Users\okeke\source\OpenGL_Polygon\OpenGL_Polygon.cpp(38,56): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+1>C:\Users\okeke\source\OpenGL_Polygon\OpenGL_Polygon.cpp(38,27): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+1>  OpenGL_Polygon.vcxproj -> C:\Users\okeke\source\OpenGL_Polygon\x64\Debug\OpenGL_Polygon.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 13:34 and took 13.787 seconds ==========
